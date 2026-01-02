@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quest Firebase</string>
+    <string name="entry_siswa">Tambah Siswa</string>
+    <string name="detail_siswa">Detail Siswa</string>
+    <string name="edit_siswa">Edit Siswa</string>
+    <string name="back">Kembali</string>
+    <string name="nama">Nama Siswa</string>
+    <string name="alamat">Alamat</string>
+    <string name="telpon">Nomor Telepon</string>
+    <string name="required_field">Wajib diisi *</string>
+    <string name="btn_submit">Simpan Data</string>
+    <string name="entry_status">Data berhasil disimpan</string>
+    <string name="loading">Memuat data...</string>
+    <string name="gagal">Gagal mengambil data dari Firebase</string>
+    <string name="no_data">Tidak ada data siswa tersedia</string>
+</resources>
